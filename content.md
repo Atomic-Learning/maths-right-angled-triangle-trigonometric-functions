@@ -4,7 +4,7 @@ When considering the sides of a right-angled triangle, we can use trigonometric 
 - The side adjacent to the angle $\phi$ is called the **adjacent** side.
 - The side opposite the right angle is called the **hypotenuse**
 
-![Right-angled triangle with sides labelled](resources/right_triangle.png)
+![Right-angled triangle with sides labelled](resources/right-triangle.png)
 
 The following trigonometric functions can be defined in terms of the sides of the triangle:
 

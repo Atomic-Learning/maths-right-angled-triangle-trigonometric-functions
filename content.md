@@ -1,4 +1,4 @@
-When considering the sides of a right-angled triangle, we can use trigonometric functions to relate the angles to the lengths of the sides to each other. If we consider a right-angled triangle where the angle of interest is $\phi$, we can define the following sides:
+We can use trigonometric functions to relate the angles and the lengths of the sides of a right-angled triangle to each other. If we consider a right-angled triangle where the angle of interest is $\phi$, we can define the following sides:
 
 - The side opposite the angle $\phi$ is called the **opposite** side.
 - The side adjacent to the angle $\phi$ is called the **adjacent** side.
